@@ -1,0 +1,11 @@
+Time Complexity
+
+1. When you write a code in interview, the interviewer judge your code by analyzing time complexity and space complexity. 
+
+2. Time complexity != Time taken. If we run same code in old and new machine, one may take 3s and one may take 1 second to execute. 
+
+3. The rate at which time taken increases with respect to the input size is called time complexity. Time complexity is not computed in terms of seconds or minutes, we write it using Big-Oh notation. Every piece of code takes time in terms of Big-Oh notation
+
+4. Big Oh -> O("we write here whatever the time is taken")
+
+5. Time complexity is computed in terms of worst case senario
